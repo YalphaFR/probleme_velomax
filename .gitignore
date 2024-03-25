@@ -1,0 +1,9 @@
+﻿﻿.vs/
+bin/
+obj/
+Properties/
+App.config
+probleme_velomax.csproj
+probleme_velomax.sln
+packages/
+packages.config
